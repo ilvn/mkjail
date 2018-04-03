@@ -73,5 +73,5 @@ for file in $FILES; do
 done
 
 echo "+ Entering jail $JAILNAME..."
-chroot "$JAILDIR"
+chroot "$JAILDIR" /bin/bash
 # vim:ts=4:sw=4:et:cc=80:

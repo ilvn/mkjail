@@ -1,7 +1,9 @@
 /bin/bash
+/bin/ls
 /dev/null
 /dev/urandom
 /dev/zero
+/usr/lib/closure/libclosured.dylib
 /usr/lib/dyld
 /usr/lib/libDiagnosticMessagesClient.dylib
 /usr/lib/libSystem.B.dylib
@@ -10,6 +12,7 @@
 /usr/lib/libc++abi.dylib
 /usr/lib/libncurses.5.4.dylib
 /usr/lib/libobjc.A.dylib
+/usr/lib/libutil.dylib
 /usr/lib/system/libcache.dylib
 /usr/lib/system/libcommonCrypto.dylib
 /usr/lib/system/libcompiler_rt.dylib
@@ -28,6 +31,7 @@
 /usr/lib/system/libsystem_configuration.dylib
 /usr/lib/system/libsystem_coreservices.dylib
 /usr/lib/system/libsystem_coretls.dylib
+/usr/lib/system/libsystem_darwin.dylib
 /usr/lib/system/libsystem_dnssd.dylib
 /usr/lib/system/libsystem_info.dylib
 /usr/lib/system/libsystem_kernel.dylib
@@ -41,6 +45,7 @@
 /usr/lib/system/libsystem_sandbox.dylib
 /usr/lib/system/libsystem_secinit.dylib
 /usr/lib/system/libsystem_stats.dylib
+/usr/lib/system/libsystem_symptoms.dylib
 /usr/lib/system/libsystem_trace.dylib
 /usr/lib/system/libunc.dylib
 /usr/lib/system/libunwind.dylib
